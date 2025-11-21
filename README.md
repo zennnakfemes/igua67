@@ -1,2 +1,2 @@
-# zen
+# gkro
 untuk foto
